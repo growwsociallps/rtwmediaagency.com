@@ -1,11 +1,11 @@
 /* New code */
 @font-face {
     font-family: "flaticon";
-    src: url("https://loyalmedia.in/fonts-31/") format("truetype"),
-url("https://loyalmedia.in/fonts-31/flaticon.woff?bdee1994ba87c3b53fda49286cf3f509") format("woff"),
-url("https://loyalmedia.in/fonts-31/flaticon.woff2?bdee1994ba87c3b53fda49286cf3f509") format("woff2"),
-url("https://loyalmedia.in/fonts-31/flaticon.eot?bdee1994ba87c3b53fda49286cf3f509#iefix") format("embedded-opentype"),
-url("https://loyalmedia.in/fonts-31/flaticon.svg?bdee1994ba87c3b53fda49286cf3f509#flaticon") format("svg");
+    src: url("../fonts-31/") format("truetype"),
+url("../fonts-31/flaticon.woff?bdee1994ba87c3b53fda49286cf3f509") format("woff"),
+url("../fonts-31/flaticon.woff2?bdee1994ba87c3b53fda49286cf3f509") format("woff2"),
+url("../fonts-31/flaticon.eot?bdee1994ba87c3b53fda49286cf3f509#iefix") format("embedded-opentype"),
+url("../fonts-31/flaticon.svg?bdee1994ba87c3b53fda49286cf3f509#flaticon") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
